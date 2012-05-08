@@ -1,0 +1,6 @@
+[submodule "vendors/WoozExternal1"]
+	path = vendors/WoozExternal1
+	url = https://github.com/MichelCarroll/WoozExternal1.git
+[submodule "vendors/WoozExternal2"]
+	path = vendors/WoozExternal2
+	url = https://github.com/MichelCarroll/WoozExternal2.git
